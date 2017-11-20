@@ -36,7 +36,7 @@ Rocket
 
 Battle
 	Battle is the main view activity part of our game. On it, you see your army and UFO’s soldiers, which go to our rocket. Also you can see button with clock. This button removes some percent(1-20) of rocket upgrade.
-	When units dead, it change color to red and then disappeared from screen.
+	When units dead, they changing their color to red and then disappeared from screen.
 
 Soldiers&UFO
 	Each of them has three different classes. They differ by health points, damage, power, etc and they have animation effects.
