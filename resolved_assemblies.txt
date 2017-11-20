@@ -1,0 +1,11 @@
+C:\Users\dinoz\Desktop\Close Contact\Close Contact\obj\Release\android\assets\Close Contact.dll
+C:\Users\dinoz\Desktop\Close Contact\Close Contact\obj\Release\android\assets\FormsViewGroup.dll
+C:\Users\dinoz\Desktop\Close Contact\Close Contact\obj\Release\android\assets\Mono.Android.dll
+C:\Users\dinoz\Desktop\Close Contact\Close Contact\obj\Release\android\assets\MonoGame.Framework.dll
+C:\Users\dinoz\Desktop\Close Contact\Close Contact\obj\Release\android\assets\mscorlib.dll
+C:\Users\dinoz\Desktop\Close Contact\Close Contact\obj\Release\android\assets\OpenTK-1.0.dll
+C:\Users\dinoz\Desktop\Close Contact\Close Contact\obj\Release\android\assets\System.Core.dll
+C:\Users\dinoz\Desktop\Close Contact\Close Contact\obj\Release\android\assets\System.dll
+C:\Users\dinoz\Desktop\Close Contact\Close Contact\obj\Release\android\assets\System.Xml.dll
+C:\Users\dinoz\Desktop\Close Contact\Close Contact\obj\Release\android\assets\System.Runtime.Serialization.dll
+C:\Users\dinoz\Desktop\Close Contact\Close Contact\obj\Release\android\assets\System.ServiceModel.Internals.dll

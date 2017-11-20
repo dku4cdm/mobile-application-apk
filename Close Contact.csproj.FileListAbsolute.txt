@@ -1,0 +1,24 @@
+C:\Users\dinoz\Desktop\Close Contact\Close Contact\bin\Android\AnyCPU\Release\Resources\AboutResources.txt
+C:\Users\dinoz\Desktop\Close Contact\Close Contact\bin\Android\AnyCPU\Release\Ufo.cs
+C:\Users\dinoz\Desktop\Close Contact\Close Contact\bin\Android\AnyCPU\Release\Game.cs
+C:\Users\dinoz\Desktop\Close Contact\Close Contact\bin\Android\AnyCPU\Release\Close Contact.dll
+C:\Users\dinoz\Desktop\Close Contact\Close Contact\bin\Android\AnyCPU\Release\Close Contact.pdb
+C:\Users\dinoz\Desktop\Close Contact\Close Contact\bin\Android\AnyCPU\Release\Close_Contact.Close_Contact.apk
+C:\Users\dinoz\Desktop\Close Contact\Close Contact\bin\Android\AnyCPU\Release\Close_Contact.Close_Contact-Signed.apk
+C:\Users\dinoz\Desktop\Close Contact\Close Contact\bin\Android\AnyCPU\Release\FormsViewGroup.dll
+C:\Users\dinoz\Desktop\Close Contact\Close Contact\bin\Android\AnyCPU\Release\MonoGame.Framework.dll
+C:\Users\dinoz\Desktop\Close Contact\Close Contact\bin\Android\AnyCPU\Release\FormsViewGroup.pdb
+C:\Users\dinoz\Desktop\Close Contact\Close Contact\bin\Android\AnyCPU\Release\FormsViewGroup.dll.mdb
+C:\Users\dinoz\Desktop\Close Contact\Close Contact\bin\Android\AnyCPU\Release\MonoGame.Framework.xml
+C:\Users\dinoz\Desktop\Close Contact\Close Contact\obj\Release\Close Contact.csprojResolveAssemblyReference.cache
+C:\Users\dinoz\Desktop\Close Contact\Close Contact\obj\Release\Close Contact.dll
+C:\Users\dinoz\Desktop\Close Contact\Close Contact\obj\Release\Close Contact.pdb
+C:\Users\dinoz\Desktop\Close Contact\Close Contact\obj\Release\android\bin\Close_Contact.Close_Contact.apk
+C:\Users\dinoz\Desktop\Close Contact\Close Contact\obj\Release\res\values\strings.xml
+C:\Users\dinoz\Desktop\Close Contact\Close Contact\obj\Release\res\values\styles.xml
+C:\Users\dinoz\Desktop\Close Contact\Close Contact\obj\Release\res\drawable\icon.png
+C:\Users\dinoz\Desktop\Close Contact\Close Contact\obj\Release\res\drawable\start.jpg
+C:\Users\dinoz\Desktop\Close Contact\Close Contact\obj\Release\R.cs.flag
+C:\Users\dinoz\Desktop\Close Contact\Close Contact\obj\Release\uploadflags.txt
+C:\Users\dinoz\Desktop\Close Contact\Close Contact\obj\Release\Close Contact.dll.mdb
+C:\Users\dinoz\Desktop\Close Contact\Close Contact\bin\Android\AnyCPU\Release\Close Contact.dll.mdb
